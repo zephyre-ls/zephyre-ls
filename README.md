@@ -1,9 +1,10 @@
 # Laureline - 31 ans.
 
 Ancienne infirmière en psychiatrie qui se reconvertie dans le milieu vaste et passionnant de l'informatique.
-_ Étudiante à l'école 42   
-_ Intéressé et curieuse de tous les environnements.
-_ Actuellement à la recherche d’un stage ou d'une alternance.
+
+- Étudiante à l'école 42
+- Intéressé et curieuse de tous les environnements.
+- Actuellement à la recherche d’un stage ou d'une alternance.
 
 ## Skills
 - C
@@ -27,3 +28,5 @@ _ Actuellement à la recherche d’un stage ou d'une alternance.
 - WebServ (en cours)
 - Inception (à venir)
 - Transcendance (à venir)
+
+:w
