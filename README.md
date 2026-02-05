@@ -6,7 +6,7 @@ Mon parcours m’a permis de développer rigueur, autonomie et une excellente ge
 
 À la recherche d’un **stage de 6 mois** ou d’une **alternance (1 à 2 ans)**.
 
-# Pour me contacter :
+## Pour me contacter
 - [LinkedIn](https://www.linkedin.com/in/laureline-d-250659279)
 
 ## Profil
@@ -16,12 +16,21 @@ Mon parcours m’a permis de développer rigueur, autonomie et une excellente ge
 
 ## Compétences techniques
 - **Langages** : C, C++
-- **Web** : HTML, CSS, notions de JavaScript, PHP, React
+- **Web** : HTML, CSS, notions de JavaScript, notion de PHP, notion de React
 - **Systèmes & Réseau** : environnement Linux, réseau
 - **Outils** : Docker, Vim / Neovim / VS Code
-- **Design & CMS** : Figma, WordPress
-- **Autres** : notions de Python, Godot Engine
+- **Design & CMS** : Figma, WordPress, Asprite, notion de Notion
+- **Autres** : notions de Python, notion de Godot Engine
 
+## Projets personnels
+- (projet en cours: création d'une app android, apprentissage de Android Studio)
+- Création d’une web app (quiz en ligne sur le thème du jeu vidéo)
+- Création d’un site web pour une éducatrice canine  
+  *(WordPress avec ajouts HTML/CSS, Utilisation de Figma, recceuil de données, vidéo & photos)*
+- Participation à un hackathon CTF
+- Participation à un hackathon dans un musée préhistorique (mon équipe à eu le premier prix)
+- Participation à une game Jam (MiniGameJam)
+  
 ## Projets (École 42 et personnels)
 - Minishell
 - Cub3D
@@ -31,11 +40,7 @@ Mon parcours m’a permis de développer rigueur, autonomie et une excellente ge
 - WebServ (en cours)
 - Inception (à venir)
 - Transcendence (à venir)
-- Participation à un hackathon CTF
-- Participation à un hackathon dans un musée préhistorique
-- Création d’une web app (quiz en ligne sur le thème du jeu vidéo)
-- Création d’un site web pour une éducatrice canine  
-  *(WordPress avec ajouts HTML/CSS)*
+
 
 ## Soft skills
 - Autonomie
