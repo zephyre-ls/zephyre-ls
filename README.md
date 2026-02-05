@@ -3,8 +3,8 @@
 Ancienne infirmière en psychiatrie qui se reconvertie dans le milieu vaste et passionnant de l'informatique.
 
 - Étudiante à l'école 42
-- Intéressé et curieuse de tous les environnements.
-- Actuellement à la recherche d’un stage ou d'une alternance.
+- Intéressé et curieuse de toutes les branches du dev
+- Actuellement à la recherche d’un stage ou d'une alternance (Stage de 6 mois, Alternance 1/2 ans)
 
 ## Skills
 - C
