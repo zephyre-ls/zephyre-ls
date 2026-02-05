@@ -1,8 +1,8 @@
 # Laureline — 31 ans  
-Étudiante développeuse à l’école 42
+Étudiante développeuse à **l’école 42**.
 
-Ancienne infirmière en psychiatrie, je suis actuellement en reconversion dans le domaine de l’informatique.  
-Mon parcours m’a permis de développer rigueur, autonomie et une excellente gestion du stress, que j’applique aujourd’hui au développement logiciel.
+Ancienne infirmière en psychiatrie, je suis actuellement en reconversion dans le domaine riche et vaste de l’informatique.  
+Mon parcours m’a permis de développer rigueur, autonomie et gestion du stress, que j’applique aujourd’hui au développement logiciel.
 
 À la recherche d’un **stage de 6 mois** ou d’une **alternance (1 à 2 ans)**.
 
@@ -31,15 +31,43 @@ Mon parcours m’a permis de développer rigueur, autonomie et une excellente ge
 - Participation à un hackathon dans un musée préhistorique (mon équipe à eu le premier prix)
 - Participation à une game Jam (MiniGameJam)
   
-## Projets (École 42 et personnels)
-- Minishell
-- Cub3D
-- Push_swap
-- So_long
-- NetPractice
-- WebServ (en cours)
-- Inception (à venir)
-- Transcendence (à venir)
+## Projets scolaire (École 42)
+
+- **WebServ** *(en cours)*  
+  Serveur HTTP implémenté en C++, respectant les standards HTTP et la gestion de requêtes concurrentes.
+
+- **Inception** *(à venir)*  
+  Mise en place d’une infrastructure conteneurisée avec Docker (services, réseaux, volumes).
+
+- **Transcendence** *(à venir)*  
+  Application web full-stack avec backend, frontend et authentification en temps réel.
+
+- **Minishell**
+  Implémentation d’un shell UNIX en C avec parsing avancé via **AST**, gestion fine des processus, pipes, redirections, signaux et exécution conforme au comportement bash.
+
+- **Cub3D**  
+  Moteur de rendu 3D en raycasting inspiré de Wolfenstein, développé en C (maths, gestion graphique, performance).
+
+- **Push_swap**  
+  Optimisation d’algorithmes de tri avec un nombre limité d’instructions, en C (logique, performance, complexité).
+
+- **So_long**  
+  Jeu 2D simple en C utilisant une bibliothèque graphique, avec gestion d’événements et de cartes.
+
+- **ft_printf**  
+  Reproduction de la fonction printf en C (gestion des formats, variadic functions, allocation mémoire).
+
+- **get_next_line**  
+  Lecture ligne par ligne depuis un descripteur de fichier, avec gestion fine de la mémoire et des buffers.
+
+- **libft**  
+  Bibliothèque standard en C implémentant des fonctions utilitaires (chaînes, mémoire, listes).
+
+- **NetPractice**  
+  Exercices de configuration réseau (adressage IP, masques, routage).
+
+
+
 
 
 ## Soft skills
