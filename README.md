@@ -1,32 +1,46 @@
-# Laureline - 31 ans.
+# Laureline — 31 ans  
+Étudiante développeuse à l’école 42
 
-Ancienne infirmière en psychiatrie qui se reconvertie dans le milieu vaste et passionnant de l'informatique.
+Ancienne infirmière en psychiatrie, je suis actuellement en reconversion dans le domaine de l’informatique.  
+Mon parcours m’a permis de développer rigueur, autonomie et une excellente gestion du stress, que j’applique aujourd’hui au développement logiciel.
 
-- Étudiante à l'école 42
-- Intéressé et curieuse de toutes les branches du dev
-- Actuellement à la recherche d’un stage ou d'une alternance (Stage de 6 mois, Alternance 1/2 ans)
+À la recherche d’un **stage de 6 mois** ou d’une **alternance (1 à 2 ans)**.
 
-## Skills
-- C
-- C++
-- Réseau
-- Docker
-- Vim/Nvim/VScode
-- Environnement Linux
-- HTML/CSS
-- Figma, Wordpress
-- Légère notion de Réact, PHP, JS, Godot Engine et Python
-- Autonome
-- Bonne gestion de l'urgence
+## Profil
+- Étudiante à l’école 42
+- Curieuse et polyvalente, intéressée par l’ensemble des domaines du développement
+- À l’aise dans des environnements techniques exigeants
+- Capable de travailler de manière autonome comme en équipe
 
-## Project
+## Compétences techniques
+- **Langages** : C, C++
+- **Web** : HTML, CSS, notions de JavaScript, PHP, React
+- **Systèmes & Réseau** : environnement Linux, réseau
+- **Outils** : Docker, Vim / Neovim / VS Code
+- **Design & CMS** : Figma, WordPress
+- **Autres** : notions de Python, Godot Engine
+
+## Projets (École 42 et personnels)
 - Minishell
 - Cub3D
-- Push_Swap
-- So_Long
+- Push_swap
+- So_long
 - NetPractice
 - WebServ (en cours)
 - Inception (à venir)
-- Transcendance (à venir)
+- Transcendence (à venir)
+- Participation à un hackathon CTF
+- Participation à un hackathon dans un musée préhistorique
+- Création d’une web app (quiz en ligne sur le thème du jeu vidéo)
+- Création d’un site web pour une éducatrice canine  
+  *(WordPress avec ajouts HTML/CSS)*
 
-:w
+## Soft skills
+- Autonomie
+- Rigueur
+- Bonne gestion de l’urgence et du stress
+- Adaptabilité
+- Travail en équipe
+- Ecoute active
+- Vulgarisation
+- Bonne communication
