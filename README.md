@@ -8,14 +8,14 @@ Ancienne infirmière en psychiatrie qui se reconvertie dans le milieu vaste et p
 
 ## Skills
 - C
-- CPP
+- C++
 - Réseau
 - Docker
 - Vim/Nvim/VScode
 - Environnement Linux
 - HTML/CSS
 - Figma, Wordpress
-- Légère notion de Réact, PHP, JS, Godot Engine 
+- Légère notion de Réact, PHP, JS, Godot Engine et Python
 - Autonome
 - Bonne gestion de l'urgence
 
