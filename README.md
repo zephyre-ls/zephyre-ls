@@ -7,8 +7,7 @@ Mon parcours m’a permis de développer rigueur, autonomie et une excellente ge
 À la recherche d’un **stage de 6 mois** ou d’une **alternance (1 à 2 ans)**.
 
 # Pour me contacter :
-- LinkedIn : [Laureline – LinkedIn](https://www.linkedin.com/in/laureline-d-250659279)
-- Email : [Laureline – Emai](laureline.duf@proton.me)
+- [LinkedIn](https://www.linkedin.com/in/laureline-d-250659279)
 
 ## Profil
 - Étudiante à l’école 42
