@@ -1,16 +1,27 @@
-## Hi there 👋
+# Salut, moi c'est Laureline, j'ai 31 ans.
 
-<!--
-**zephyre-ls/zephyre-ls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ancienne infirmière en psychiatrie qui se reconvertie dans le milieu vaste et passionnant de l'informatique.
+_ Étudiante à l'école 42   
+_ Intéressé et curieuse de tous les environnements.
+_ Actuellement à la recherche d’un stage ou d'une alternance.
 
-Here are some ideas to get you started:
+## 🚀 Compétences
+- C
+- CPP
+- Réseau
+- Docker
+- Vim/Nvim/VScode
+- Environnement Linux
+- HTML/CSS
+- Figma, Wordpress
+- Légère notion de Réact, PHP, JS.
+- Autonome
+- Bonne gestion de l'urgence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Projets
+- Minishell
+- Cub3D
+- NetPractice
+- WebServ (en cours)
+- Inception (à venir)
+- Transcendance (à venir)
