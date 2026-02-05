@@ -9,7 +9,6 @@ Mon parcours m’a permis de développer rigueur, autonomie et une excellente ge
 ## Profil
 - Étudiante à l’école 42
 - Curieuse et polyvalente, intéressée par l’ensemble des domaines du développement
-- À l’aise dans des environnements techniques exigeants
 - Capable de travailler de manière autonome comme en équipe
 
 ## Compétences techniques
