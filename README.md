@@ -1,16 +1,7 @@
-# Laureline — 31 ans  
-Étudiante développeuse à **l’école 42**.
-
-Ancienne infirmière en psychiatrie, je suis actuellement en reconversion dans le domaine riche et vaste de l’informatique.  
-Mon parcours m’a permis de développer rigueur, autonomie, attentive aux besoins spécifique du patient et de mes collègues et gestion du stress. Des valeurs humaines et professionnelles que j'essaie d'appliquer dans l'informatique. 
-
 À la recherche d’un **stage de 6 mois** ou d’une **alternance (1 à 2 ans)**.
 
-## Pour me contacter
-- [LinkedIn](https://www.linkedin.com/in/laureline-d-250659279)
-
 ## Profil
-- Étudiante à l’école 42
+- Étudiante  42
 - Curieuse et polyvalente, intéressée par l’ensemble des domaines du développement. Je n'ai pas de "spécialités" pour le moment, je pense que mon stage/alternance aidera à m'éclairer sur un domaine spécifique.
 - Capable de travailler de manière autonome comme en équipe
 - J'aime découvrir des logiciels et apprendre à les utiliser avec ses raccourcies
@@ -21,12 +12,6 @@ Mon parcours m’a permis de développer rigueur, autonomie, attentive aux besoi
 - J'aime réfléchir à des solutions
 - J'aime compprendre et découvrir
 - Je ne suis pas à l'aise quand les maths sont trop poussés dans le code
-
-## Ce que j'aime 
-
-- Les jeux vidéos
-- Les randonnées 
-- Profiter des moments simple de la vie
 
 ## Compétences techniques
 - **Langages** : C, C++
