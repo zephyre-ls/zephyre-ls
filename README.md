@@ -15,7 +15,7 @@
 
 ## Compétences techniques
 - **Langages** : C, C++
-- **Web** : HTML, CSS, notions de JavaScript, notions de PHP, notion de React
+- **Web** : HTML, CSS, notions de JavaScript, notions de PHP
 - **Systèmes & Réseau** : environnement Linux, réseau
 - **Outils** : Docker, Vim / Neovim / VS Code
 - **Design & CMS** : Figma, WordPress, Asprite.
