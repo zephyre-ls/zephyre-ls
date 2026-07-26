@@ -1,6 +1,7 @@
 À la recherche d’un **stage de 6 mois** ou d’une **alternance (1 à 2 ans)**.
 
 ## Profil
+- Ancienne infirmière en psychiatrie.
 - Étudiante  42
 - Curieuse et polyvalente, intéressée par l’ensemble des domaines du développement. Je n'ai pas de "spécialités" pour le moment, je pense que mon stage/alternance aidera à m'éclairer sur un domaine spécifique.
 - Capable de travailler de manière autonome comme en équipe
@@ -24,8 +25,8 @@
 ## Projets personnels
 - (projet à venir: création d'une app android, apprentissage de Android Studio)
 - Création d’une web app (quiz en ligne sur le thème du jeu vidéo)
-- Création d’un site web pour une éducatrice canine  
-  *(WordPress avec ajouts HTML/CSS, Utilisation de Figma, recceuil de données, vidéo & photos)*
+- Création de plusieurs site web dans le même domaine : canin et bien être  (4 clients depuis 2026)
+  *(WordPress avec ajouts HTML/CSS, Utilisation de Figma, recceuil de données, vidéo & photos, site from scratch, SEO)*
 - Participation à un hackathon CTF
 - Participation à un hackathon dans un musée préhistorique (mon équipe à eu le premier prix)
 - Participation à une game Jam. 
